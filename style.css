@@ -1,0 +1,80 @@
+body{
+    background-color: rgb(228, 228, 228);
+}
+
+
+
+.main{
+    
+    width: 40%;
+    height:auto;
+    margin: 0% 25%;
+    border-radius: 4px;
+    
+    background-color: rgba(216, 210, 210, 0.911);
+    position: absolute;
+}
+.face{
+    font-size: 35px;
+    text-align: center;
+    color: rgb(8, 102, 255);
+}
+.child1{
+    position: relative;
+    width: 80%;
+    height: 80%;
+    margin: 15px 10%;
+    
+    background-color:white;
+    border-radius: 4px;
+  
+  
+    
+}
+.child1  input{
+    width: 50%;
+    height: 5%;
+    border: 1px solid rgba(185, 183, 183, 0.884);
+    padding: 10px;
+    margin: 10px 25%;
+    border-radius: 4px;
+
+}
+.child1  input:hover{
+background-color: rgba(218, 212, 212, 0.726);
+
+}
+.sing{
+
+    width: 70px;
+    height: 35px;
+    margin: 2% 43%;
+    font-size: 15px;
+    font-weight: 500;
+    color: white;
+    border-radius: 4px;
+    background-color:rgb(17, 159, 22);
+}
+.sing:hover{
+    background-color: rgb(48, 180, 48);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
